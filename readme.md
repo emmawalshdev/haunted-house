@@ -1,4 +1,4 @@
-# Three.js Journey
+# Haunted House - Three.js App
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,7 +14,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-
-```
 ## View the App
-[View the app!]()
+[View the app!](https://haunted-house-seven-xi.vercel.app/)
